@@ -6,7 +6,7 @@ Created on Wed Jun  8 21:00:57 2022
 """
 
 
-from io import StringIO # python3; python2: BytesIO 
+from io import StringIO
 import boto3
 import pandas as pd
 import botocore
